@@ -376,6 +376,16 @@ margin on the iframe, cause it breaks stuff. */
     background-size: cover;
 }
 
+.twitter-link img {
+    width: 22px;
+}
+
+.twitter-link {
+  position: absolute;
+  bottom: 20px;
+  right: 5rem;
+}
+
 .blog-logo {
     text-decoration: none;
 }
