@@ -148,8 +148,8 @@ h6 {
 }
 
 a {
-    color: #4a4a4a;
-    text-decoration: underline;
+    color: #0084B4;
+    text-decoration: none;
     transition: color ease 0.3s;
 }
 
